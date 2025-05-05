@@ -1,0 +1,317 @@
+[
+  {
+    "name": "HydraGlow Lip Balm",
+    "description": "A deeply hydrating balm for dry and chapped lips.",
+    "keywords": ["dry lips", "chapped lips", "hydrating", "lip care"],
+    "price": "INR 199",
+    "category": "lip care"
+  },
+  {
+    "name": "MatteMe Liquid Lipstick",
+    "description": "Long-lasting matte lipstick perfect for oily or humid skin.",
+    "keywords": ["matte", "long-lasting", "lipstick", "oily skin"],
+    "price": "INR 499",
+    "category": "lipstick"
+  },
+  {
+    "name": "GlowMax Highlighter",
+    "description": "Adds a radiant glow for party-ready looks.",
+    "keywords": ["highlighter", "glow", "party", "shiny"],
+    "price": "INR 699",
+    "category": "face makeup"
+  },
+  {
+    "name": "Velvet Touch Foundation",
+    "description": "Full coverage foundation suitable for dry skin.",
+    "keywords": ["foundation", "full coverage", "dry skin", "makeup base"],
+    "price": "INR 899",
+    "category": "foundation"
+  },
+  {
+    "name": "Oil-Control Primer",
+    "description": "Keeps makeup intact and controls excess oil.",
+    "keywords": ["primer", "oil control", "oily skin", "sweat proof"],
+    "price": "INR 399",
+    "category": "primer"
+  },
+  {
+    "name": "AquaBliss Moisturizer",
+    "description": "Lightweight hydration for all-day freshness.",
+    "keywords": ["moisturizer", "dry skin", "hydration", "day cream"],
+    "price": "INR 349",
+    "category": "moisturizer"
+  },
+  {
+    "name": "EverCurl Mascara",
+    "description": "Smudge-proof mascara for long curled lashes.",
+    "keywords": ["mascara", "curl", "lashes", "smudge proof"],
+    "price": "INR 349",
+    "category": "mascara"
+  },
+  {
+    "name": "Natural Brow Gel",
+    "description": "Defines and shapes your eyebrows with a natural finish.",
+    "keywords": ["brow", "eyebrows", "gel", "natural look"],
+    "price": "INR 279",
+    "category": "eyebrow"
+  },
+  {
+    "name": "SilkBlush Cheek Tint",
+    "description": "Gives your cheeks a natural pink glow.",
+    "keywords": ["blush", "cheeks", "pink", "tint"],
+    "price": "INR 399",
+    "category": "blush"
+  },
+  {
+    "name": "Smooth Base BB Cream",
+    "description": "Lightweight coverage with SPF 15 protection.",
+    "keywords": ["bb cream", "light coverage", "spf", "sun protection"],
+    "price": "INR 499",
+    "category": "bb cream"
+  },
+  {
+    "name": "NoPore Primer",
+    "description": "Blurs pores and provides a smooth base.",
+    "keywords": ["primer", "pores", "blur", "smoothing"],
+    "price": "INR 450",
+    "category": "primer"
+  },
+  {
+    "name": "StayFix Setting Spray",
+    "description": "Locks in your makeup for up to 12 hours.",
+    "keywords": ["setting spray", "long-lasting", "fixer", "sweat proof"],
+    "price": "INR 349",
+    "category": "setting spray"
+  },
+  {
+    "name": "LumiSkin Compact Powder",
+    "description": "Controls shine with a soft matte finish.",
+    "keywords": ["compact", "powder", "shine control", "matte"],
+    "price": "INR 549",
+    "category": "powder"
+  },
+  {
+    "name": "BoldEyes Eyeliner",
+    "description": "Jet black eyeliner with precision tip.",
+    "keywords": ["eyeliner", "black", "precision", "smudge-proof"],
+    "price": "INR 299",
+    "category": "Eyeliner"
+  },
+  {
+    "name": "DeepClean Micellar Water",
+    "description": "Removes makeup gently while cleansing the skin.",
+    "keywords": ["micellar", "makeup remover", "cleanser", "gentle"],
+    "price": "INR 299",
+    "category": "Cleanser"
+  },
+  {
+    "name": "TropicalEyes Shadow Palette",
+    "description": "12 bold shades inspired by tropical vibes.",
+    "keywords": ["eyeshadow", "palette", "colorful", "party makeup"],
+    "price": "INR 799",
+    "category": "Eyeshadow"
+  },
+  {
+    "name": "Satin Lips Gloss",
+    "description": "Non-sticky gloss for shiny and moisturized lips.",
+    "keywords": ["lip gloss", "shine", "moisturized", "glossy"],
+    "price": "INR 229",
+    "category": "Lip Gloss"
+  },
+  {
+    "name": "FlawFix Concealer",
+    "description": "Covers blemishes and dark circles effortlessly.",
+    "keywords": ["concealer", "dark circles", "blemishes", "spot cover"],
+    "price": "INR 549",
+    "category": "concealer"
+  },
+  {
+    "name": "Herbal Kajal Stick",
+    "description": "Made with herbal ingredients for daily use.",
+    "keywords": ["kajal", "herbal", "daily", "natural"],
+    "price": "INR 199",
+    "category": "kajal"
+  },
+  {
+    "name": "GlowBoost Serum",
+    "description": "Boosts skin glow and reduces dullness.",
+    "keywords": ["serum", "glow", "brightening", "dull skin"],
+    "price": "INR 649",
+    "category": "serum"
+  },
+  {
+    "name": "MatteChic Lip Crayon",
+    "description": "Smooth matte finish in a travel-friendly crayon.",
+    "keywords": ["lip crayon", "matte", "travel", "crayon"],
+    "price": "INR 349",
+    "category": "lip crayon"
+  },
+  {
+    "name": "RoseWater Mist",
+    "description": "Soothing mist that refreshes and hydrates skin.",
+    "keywords": ["rose", "mist", "hydration", "refresh"],
+    "price": "INR 279",
+    "category": "mist"
+  },
+  {
+    "name": "NightGlow Sleeping Mask",
+    "description": "Overnight mask that repairs and hydrates your skin.",
+    "keywords": ["sleeping mask", "night cream", "hydration", "repair"],
+    "price": "INR 599",
+    "category": "night care"
+  },
+  {
+    "name": "UltraFix Makeup Sponge",
+    "description": "Blends makeup effortlessly for a smooth finish.",
+    "keywords": ["makeup sponge", "blender", "smooth finish", "tool"],
+    "price": "INR 199",
+    "category": "tool"
+  },
+  {
+    "name": "PerfectMatch Foundation Stick",
+    "description": "Easy-to-apply stick for medium to full coverage.",
+    "keywords": ["foundation stick", "full coverage", "easy use", "travel"],
+    "price": "INR 649",
+    "category": "foundation"
+  },
+  {
+    "name": "BeardFuel Beard Oil",
+    "description": "Nourishing oil that softens, tames, and strengthens beard hair.",
+    "keywords": ["beard", "grooming", "oil", "soften"],
+    "price": "INR 399",
+    "category": "beard care"
+  },
+  {
+    "name": "Charcoal Detox Face Wash",
+    "description": "Deep-cleansing face wash with activated charcoal for oily skin.",
+    "keywords": ["face wash", "charcoal", "detox", "oily skin"],
+    "price": "INR 299",
+    "category": "face wash"
+  },
+  {
+    "name": "Men's Matte Look Moisturizer",
+    "description": "Oil-free moisturizer designed for tough male skin with a matte finish.",
+    "keywords": ["moisturizer", "men", "matte", "oil control"],
+    "price": "INR 349",
+    "category": "men's care"
+  },
+  {
+    "name": "RuggedSkin After Shave Balm",
+    "description": "Soothing balm that calms and hydrates skin post shave.",
+    "keywords": ["after shave", "soothing", "calm skin", "hydration"],
+    "price": "INR 299",
+    "category": "shave care"
+  },
+  {
+    "name": "UrbanShield Sunscreen SPF 50",
+    "description": "Non-greasy broad spectrum sun protection for men.",
+    "keywords": ["sunscreen", "SPF 50", "men", "sun protection"],
+    "price": "INR 449",
+    "category": "sunscreen"
+  },
+  {
+    "name": "PowerFresh Deodorant Stick",
+    "description": "Long-lasting deodorant with a clean, musky scent.",
+    "keywords": ["deodorant", "men", "fresh", "long-lasting"],
+    "price": "INR 199",
+    "category": "deodrant"
+  },
+  {
+    "name": "HairCraft Styling Gel",
+    "description": "Strong hold hair gel with a non-sticky formula.",
+    "keywords": ["hair gel", "styling", "strong hold", "men"],
+    "price": "INR 299",
+    "category": "hair care"
+  },
+  {
+    "name": "DarkCircle Defense Eye Cream",
+    "description": "Reduces puffiness and dark circles for tired male eyes.",
+    "keywords": ["eye cream", "dark circles", "puffiness", "men"],
+    "price": "INR 349",
+    "category": "eye care"
+  },
+  {
+    "name": "ExfoliMate Scrub",
+    "description": "Gentle exfoliating scrub to remove dead skin and blackheads.",
+    "keywords": ["scrub", "exfoliate", "blackheads", "men"],
+    "price": "INR 279",
+    "category": "exfoliator"
+  },
+  {
+    "name": "Men's Hydrate Lip Balm",
+    "description": "Fragrance-free lip balm that hydrates without shine.",
+    "keywords": ["lip balm", "men", "hydrating", "non-glossy"],
+    "price": "INR 149",
+    "category": "lip care"
+  },
+    {
+    "name": "BerryBuds Lip Balm",
+    "description": "Fruity-flavored lip balm safe for children with dry lips.",
+    "keywords": ["kids", "lip balm", "fruity", "dry lips"],
+    "price": "INR 129",
+    "category": "kid's care"
+  },
+  {
+    "name": "GentleKids Face Wash",
+    "description": "Tear-free and hypoallergenic face wash for sensitive young skin.",
+    "keywords": ["kids", "face wash", "gentle", "sensitive skin"],
+    "price": "INR 199",
+    "category": "kid's care"
+  },
+  {
+    "name": "TinyTots Moisturizer",
+    "description": "Mild daily moisturizer enriched with shea butter for kids.",
+    "keywords": ["kids", "moisturizer", "shea butter", "dry skin"],
+    "price": "INR 249",
+    "category": "kid's care"
+  },
+  {
+    "name": "BubbleFun Body Wash",
+    "description": "Mild, fun-scented body wash designed for daily use by children.",
+    "keywords": ["kids", "body wash", "gentle", "bubbly"],
+    "price": "INR 199",
+    "category": "kid's care"
+  },
+  {
+    "name": "SoftShield Sunscreen SPF 30",
+    "description": "Non-greasy, child-safe sunscreen with natural ingredients.",
+    "keywords": ["kids", "sunscreen", "SPF 30", "gentle"],
+    "price": "INR 299",
+    "category": "kid's care"
+  },
+  {
+    "name": "HappyHair Detangling Spray",
+    "description": "Tear-free detangler to manage kids' hair without pulling.",
+    "keywords": ["kids", "detangling", "hair care", "spray"],
+    "price": "INR 229",
+    "category": "kid's hair care"
+  },
+  {
+    "name": "NoTears Shampoo",
+    "description": "Mild and tear-free shampoo for soft and shiny hair.",
+    "keywords": ["kids", "shampoo", "tear-free", "gentle"],
+    "price": "INR 199",
+    "category": "kid's hair care"
+  },
+  {
+    "name": "LittleLuxe Powder",
+    "description": "Talc-free powder for kids to keep skin soft and rash-free.",
+    "keywords": ["kids", "powder", "talc-free", "rash protection"],
+    "price": "INR 149",
+    "category": "kid's care"
+  },
+  {
+    "name": "MiniSmiles Toothpaste",
+    "description": "Fluoride-free, fruit-flavored toothpaste for kids aged 3+.",
+    "keywords": ["kids", "toothpaste", "fruit flavor", "fluoride-free"],
+    "price": "INR 99",
+    "category": "kid's care"
+  },
+  {
+    "name": "GlowBuds Cream Blush (Kids Safe)",
+    "description": "Natural tint blush made for pretend play and safe skin fun.",
+    "keywords": ["kids", "blush", "pretend play", "skin safe"],
+    "price": "INR 179",
+    "category": "kid's care"
+  }
+]
